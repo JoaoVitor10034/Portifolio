@@ -39,10 +39,10 @@ Veja mais no meu [Portfólio Online](https://github.com/JoaoVitor10034/) 🌐
 
  💰 Preços para Desenvolvimento de Sites
 
-✅ Landing Page (Página Única) – R$ 500 a R$ 2.000
+✅ Landing Page (Página Única) – R$ 500 a R$ 1.600
 🔹 Site simples e direto para apresentar um serviço ou empresa.
 
-✅ Site Institucional (3 a 5 páginas) – R$ 1.500 a R$ 5.000
+✅ Site Institucional (3 a 5 páginas) – R$ 1.500 a R$ 4.000
 🔹 Para empresas que precisam de um site completo com páginas como "Sobre", "Serviços" e "Contato".
 
 ✅ E-commerce (Loja Virtual) – R$ 3.000 a R$ 10.000
